@@ -40,6 +40,7 @@ client.publish(topic, "Position_2")
 client.publish(topic, "Position_3")
 client.publish(topic, "Position_4")
 client.publish(topic, "Position_2")
+client.publish(topic, "Position_3")
 client.publish(topic, "Position_1")
 
 time.sleep(4) #Wait for messages
